@@ -7,7 +7,7 @@
     }
 
     if (code == "402") {
-        window.location.replace("https://pittimes.netlify.app/402");
+        window.location.replace("https://pittimes.netlify.app/coming-soon");
     }
     
 })()
