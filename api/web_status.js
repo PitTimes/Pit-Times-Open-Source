@@ -1,6 +1,6 @@
 (function() {
 
-    code = 402
+    code = 400
 
     if (code == "400") {
         return;
