@@ -22,8 +22,17 @@ h1, h2, h3, h4, h5, h6 {
   
 
 .twitch {
+  padding-left: 200px;
+}
+
+.tilt {
+  margin: 0;
+  font-size: 32px;
+  font-weight: 700;
   padding-top: 50px;
-  padding-left: 50px;
+  padding-left: 200px;
+  color: #ffffff;
+  font-family: "Poppins", sans-serif;
 }
 
 
