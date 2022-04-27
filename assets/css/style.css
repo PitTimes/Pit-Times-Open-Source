@@ -7,12 +7,12 @@ body {
 }
 
 a {
-  color: #ff9000;
+  color: #ffffff;
   text-decoration: none;
 }
 
 a:hover {
-  color: #3b8af2;
+  color: #ff9000;
   text-decoration: none;
 }
 
@@ -31,6 +31,16 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   padding-top: 50px;
   padding-left: 200px;
+  color: #ffffff;
+  font-family: "Poppins", sans-serif;
+}
+
+.tilt2 {
+  margin: 0;
+  font-size: 18;
+  font-weight: 250;
+  padding-left: 200px;
+  padding-bottom: 15px;
   color: #ffffff;
   font-family: "Poppins", sans-serif;
 }
