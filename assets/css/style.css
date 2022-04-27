@@ -45,6 +45,10 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
 }
 
+.tilt2 span{
+  color: #ff9000;
+}
+
 
 .standings .ferreri {
   height: 65px;
