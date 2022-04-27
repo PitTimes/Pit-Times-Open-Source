@@ -1,13 +1,13 @@
 (function(){
 
-    code = 501
+    var code = 501
 
-    if(Code === "500"){
+    if(code === "500"){
         window.location.replace("https://pittimes.netlify.app/live")
     }
 
-    if(Code === "501"){
-        window.location.replace("https://pittimes.netlify.app/Live-Event=Offline")
+    if(code === "501"){
+        window.location.replace("https://pittimes.netlify.app/offline")
     }
 
 })()
