@@ -3,7 +3,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  background-color: #1b2242;
+  background-color: #0e1222;
 }
 
 a {
@@ -324,7 +324,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background-color: #0e1222;
+  background-color: #111;
   transition: all 0.5s;
   z-index: 997;
   height: 86px;
@@ -367,7 +367,7 @@ h1, h2, h3, h4, h5, h6 {
   list-style: none;
   align-items: center;
   border-radius: 15px;
-  background-color: #111;
+  background-color: rgba(41, 41, 41, 0.658);
   padding-left: 15px;
   padding-right: 15px;
 }
@@ -1297,6 +1297,7 @@ section {
 --------------------------------------------------------------*/
 .about {
   background: #111827;
+  color:rgb(255, 255, 255);
 }
 .about .content h3 {
   color: #ffffff;
