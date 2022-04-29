@@ -1,6 +1,6 @@
 (function(){
 
-    code = 500
+    code = 501
 
     if(code == "500"){
         window.location.replace("https://pittimes.netlify.app/live")
