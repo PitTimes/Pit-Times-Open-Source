@@ -159,6 +159,24 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 550;
 }
 
+.podium2 .title2 h1 {
+  padding-top: 25px;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #ffffff;
+  font-family: "Poppins", sans-serif;
+}
+
+.podium2 .title2 h2 {
+  padding-top: .25rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #ffffff;
+  font-family: "Poppins", sans-serif;
+}
+
 .podium2 .icon-box1 {
   padding-top: 25px;
   padding-left: 150px;
@@ -203,6 +221,106 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .podium2 .icon-box1 h4 strong {
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.podium3 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #0e1222;
+}
+
+.podium3 span{
+  color: #e2273c;
+}
+
+.podium3 .des {
+  background-image: url("../img/Background.jpg");
+  width: 500px;
+  border: #e2273c 2px solid;
+  border-radius: 15px;
+  margin-top: 23px;
+  height: 402px;
+}
+
+.podium3 h3 {
+  padding-left: 25px;
+  padding-right: 25px;
+  width: 500px;
+  padding-top: 25px;
+  color: #ffffff;
+  font-size: 1rem;
+  font-weight: 350;
+  font-family: "Poppins", sans-serif;
+}
+
+.podium3 h3 strong {
+  font-size: 1rem;
+  font-weight: 550;
+}
+
+.podium3 .title2 h1 {
+  padding-top: 25px;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #ffffff;
+  font-family: "Poppins", sans-serif;
+}
+
+.podium3 .title2 h2 {
+  padding-top: .25rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #ffffff;
+  font-family: "Poppins", sans-serif;
+}
+
+.podium3 .icon-box1 {
+  padding-top: 25px;
+}
+
+.podium3 .icon-box1:hover {
+  color: #ffffff;
+}
+
+.podium3 .icon-box1 .flag {
+  padding-left: 4px;
+  padding-bottom: 3px;
+  height: 17px;
+  width: 25px;
+}
+
+.podium3 .icon-box1 .driver-pic {
+  background-image: url("../img/Background.jpg");
+  padding-top: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border: #e2273c 2px solid;
+  border-radius: 15px 15px 0 0;
+  width: 320px;
+}
+
+.podium3 .icon-box1 b {
+  background-color: #222222;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+}
+
+.podium3 .icon-box1 h4 {
+  background-color: #262b41;
+  border-radius: 0 0 15px 15px;
+  border: #e2273c 2px solid;
+  padding: 25px;
+  font-size: 16px;
+  font-weight: 350;
+  width: 320px;
+}
+
+.podium3 .icon-box1 h4 strong {
   font-size: 25px;
   line-height: 30px;
 }
