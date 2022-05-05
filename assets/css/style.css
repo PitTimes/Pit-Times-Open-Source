@@ -516,10 +516,10 @@ h1, h2, h3, h4, h5, h6 {
 .driver-s .icon-box1 .points{
   background-color: rgba(41, 41, 41, 0.658);
   border-radius: 5px;
+  width: 53px;
   padding-top: 5px;
-  padding-bottom: 3px;
-  padding-right: 5px;
-  padding-left: 5px;
+  padding-bottom: 5px;
+  text-align: center;
   font-size: 13px;
   font-weight: 500;
   font-family: "Poppins", sans-serif;
@@ -652,10 +652,10 @@ h1, h2, h3, h4, h5, h6 {
 .driver-s2 .icon-box1 .points{
   background-color: rgba(41, 41, 41, 0.658);
   border-radius: 5px;
+  width: 53px;
   padding-top: 5px;
-  padding-bottom: 3px;
-  padding-right: 5px;
-  padding-left: 5px;
+  padding-bottom: 5px;
+  text-align: center;
   font-size: 13px;
   font-weight: 500;
   font-family: "Poppins", sans-serif;
