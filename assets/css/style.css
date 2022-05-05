@@ -1037,12 +1037,10 @@ h1, h2, h3, h4, h5, h6 {
   list-style: none;
   align-items: center;
   border-radius: 15px;
-  background-color: rgba(41, 41, 41, 0.658);
-  padding-left: 15px;
-  padding-right: 15px;
 }
 .navbar li {
   position: relative;
+  padding-right: 25px;
 }
 .navbar > ul > li {
   white-space: nowrap;
