@@ -523,7 +523,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 13px;
   font-weight: 500;
   font-family: "Poppins", sans-serif;
-  text-align: right;
+  float: right;
 }
 
 .driver-s .button1 {
@@ -659,7 +659,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 13px;
   font-weight: 500;
   font-family: "Poppins", sans-serif;
-  text-align: right;
+  float: right;
 }
 
 .driver-s2 .button1 {
