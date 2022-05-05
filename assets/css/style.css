@@ -533,7 +533,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 15px;
 }
 
-.driver-s .button{
+.driver-s .button1 .button{
   background-color: #e2273c;
   color: white;
   border-radius: 5px;
@@ -545,7 +545,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 500;
   font-family: "Poppins", sans-serif;
   text-align: center;
-  margin-left: 560px;
+  margin-left: 43%;
 }
 
 .driver-s .button:hover{
