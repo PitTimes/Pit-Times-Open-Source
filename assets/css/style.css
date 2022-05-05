@@ -77,8 +77,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .podium .icon-box1 {
-  margin-top: 25px;
-  margin-left: 150px;
+  padding-left: 15px;
+  padding-top: 25px;
+}
+
+.podium a {
+  margin-left: 15px;
 }
 
 .podium .icon-box1:hover {
