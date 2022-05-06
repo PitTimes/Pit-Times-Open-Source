@@ -20,23 +20,6 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto", sans-serif;
 }
 
-.ads {
-  width: 100%;
-  border-top: #e2273c 2px solid;
-}
-
-.ads img{
-  height: 25%;
-  width: 85%;
-  display: block;
-  border: #e2273c 2px solid;
-  border-radius: 15px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 25px;
-  margin-bottom: 25px;
-}
-
 .podium {
   padding-top: 25px;
   padding-bottom: 45px;
