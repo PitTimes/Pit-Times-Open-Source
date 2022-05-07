@@ -1,4 +1,4 @@
-​​## Pit Times - Formula 1 Statistics, Leaderboards, Standings, Videos, & More. ##
+## Pit Times - Formula 1 Statistics, Leaderboards, Standings, Videos, & More.
 
 Pit Times, the largest community based, community lead Formula 1 project in the world. Pit Times provides live stats, standings, videos, leaderboards, & a load of other features for all to use.
 
