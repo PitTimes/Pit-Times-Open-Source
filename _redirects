@@ -1,9 +1,22 @@
-/   /src/index.html    200
-/maintenance    /src/maintenance.html    200
-/oss   /src/oss.html    200
-/live   /src/live.html    200
-/videos   /src/videos.html    200
-/video   /src/videos.html    200
-/privacy-policy   /src/privacy-policy.html    200
+<!-- Base Files -->
+/   /_src/index.html    200
+/maintenance    /_src/maintenance.html    200
+/privacy-policy   /_src/privacy-policy.html    200
 
+<!-- Video Module -->
+/videos   /_src/videos.html    200
+/video   /_src/videos.html    200
+
+<!-- Live Module -->
+/live   /_src/live.html    200
+/offline   /_src/offline.html    200
+
+<!-- Standings Module -->
+
+<!-- Database Module -->
+
+<!-- Developer Module -->
+/oss   /_src/oss.html    200
+
+<!-- 404 Module -->
 /*   /404.html 404
