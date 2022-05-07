@@ -18,5 +18,8 @@
 <!-- Developer Module -->
 /oss   /_src/oss.html    200
 
+<!-- Article Module -->
+/race-week-report-miami_author=krispowers    /_src/race-week-report-miami_author=krispowers.html    200
+
 <!-- 404 Module -->
 /*   /404.html 404
