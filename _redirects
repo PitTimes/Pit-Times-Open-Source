@@ -22,10 +22,10 @@
 /race-week-report-miami_author=krispowers    /_src/race-week-report-miami_author=krispowers.html    200
 
 <!-- Download URLs -->
-/creator    https://pittimes.netlify.app/assets/img/media-kit.rar    200
-/creaotrs    https://pittimes.netlify.app/assets/img/media-kit.rar    200
-/media    https://pittimes.netlify.app/assets/img/media-kit.rar    200
-/media-kit    https://pittimes.netlify.app/assets/img/media-kit.rar    200
+/creator    /assets/img/media-kit.rar    200
+/creaotrs    /assets/img/media-kit.rar    200
+/media    /assets/img/media-kit.rar    200
+/media-kit    /assets/img/media-kit.rar    200
 
 <!-- 404 Module -->
 /*   /404.html 404
