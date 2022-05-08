@@ -519,10 +519,69 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 2px;
 }
 
+.driver-s .icon-box1 .gle{
+  background-color: rgba(41, 41, 41, 0.658);
+  border-radius: 5px;
+  width: 30px;
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  margin-left: 5px;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  float: right;
+}
+
+.driver-s .icon-box1 .glg{
+  background-color: rgba(41, 41, 41, 0.658);
+  border-radius: 5px;
+  width: 30px;
+  color: #00ffb4;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  margin-left: 5px;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  float: right;
+}
+
+.driver-s .icon-box1 .gll{
+  background-color: rgba(41, 41, 41, 0.658);
+  border-radius: 5px;
+  width: 30px;
+  color: #e2273c;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  margin-left: 5px;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  float: right;
+}
+
 .driver-s .icon-box1 .points{
   background-color: rgba(41, 41, 41, 0.658);
   border-radius: 5px;
   width: 57px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 5px;
+  text-align: center;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  float: right;
+}
+
+.driver-s .icon-box1 .gap{
+  background-color: rgba(41, 41, 41, 0.658);
+  border-radius: 5px;
+  width: 85px;
   padding-top: 5px;
   padding-bottom: 5px;
   text-align: center;
@@ -655,10 +714,69 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 2px;
 }
 
+.driver-s2 .icon-box1 .gle{
+  background-color: rgba(41, 41, 41, 0.658);
+  border-radius: 5px;
+  width: 30px;
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  margin-left: 5px;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  float: right;
+}
+
+.driver-s2 .icon-box1 .glg{
+  background-color: rgba(41, 41, 41, 0.658);
+  border-radius: 5px;
+  width: 30px;
+  color: #00ffb4;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  margin-left: 5px;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  float: right;
+}
+
+.driver-s2 .icon-box1 .gll{
+  background-color: rgba(41, 41, 41, 0.658);
+  border-radius: 5px;
+  width: 30px;
+  color: #e2273c;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  margin-left: 5px;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  float: right;
+}
+
 .driver-s2 .icon-box1 .points{
   background-color: rgba(41, 41, 41, 0.658);
   border-radius: 5px;
   width: 57px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 5px;
+  text-align: center;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  float: right;
+}
+
+.driver-s2 .icon-box1 .gap{
+  background-color: rgba(41, 41, 41, 0.658);
+  border-radius: 5px;
+  width: 85px;
   padding-top: 5px;
   padding-bottom: 5px;
   text-align: center;
