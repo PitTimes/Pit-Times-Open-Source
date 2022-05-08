@@ -13,6 +13,7 @@
     code = 500
 
     if(code == "500"){
+        // IP Confirmation
         fetch('https://api.ipify.org?format=json')
             .then(results => results.json())
             .then(data => console.log(data.ip))
@@ -20,10 +21,11 @@
     }
 
      if(code == "501"){
-        window.location.replace("https://pittimes.netlify.app/maintenance")
+        // IP Confirmation
         fetch('https://api.ipify.org?format=json')
             .then(results => results.json())
             .then(data => console.log(data.ip))
+        window.location.replace("https://pittimes.netlify.app/maintenance")
     }
 
 })()
