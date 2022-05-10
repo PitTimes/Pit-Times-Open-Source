@@ -1,2 +1,2 @@
 import { downloadFile } from 'fs-browsers';
-downloadFile('https://pittimes.netlify.app/assets/img/media-kit.rar');
+downloadFile('https://pittimes.com/assets/img/media-kit.rar');

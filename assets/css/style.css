@@ -682,10 +682,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .driver-s2 .icon-box1 .rank {
+  width: 34px;
+  margin-right: 10px;
+  vertical-align: middle;
+  text-align: center;
   font-size: 16px;
   font-weight: 800;
   font-family: "Poppins", sans-serif;
-  padding-right: 8px;
+  float: left;
 }
 
 .driver-s2 .icon-box1 .name {
@@ -773,12 +777,41 @@ h1, h2, h3, h4, h5, h6 {
   float: right;
 }
 
+.driver-s2 .icon-box1 .points2{
+  background-color: rgba(41, 41, 41, 0.658);
+  border-radius: 5px;
+  width: 65px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 5px;
+  text-align: center;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  float: right;
+}
+
 .driver-s2 .icon-box1 .gap{
   background-color: rgba(41, 41, 41, 0.658);
   border-radius: 5px;
   width: 85px;
   padding-top: 5px;
   padding-bottom: 5px;
+  margin-left: 5px;
+  text-align: center;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  float: right;
+}
+
+.driver-s2 .icon-box1 .gap2{
+  background-color: rgba(41, 41, 41, 0.658);
+  border-radius: 5px;
+  width: 95px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 5px;
   text-align: center;
   font-size: 13px;
   font-weight: 500;

@@ -7,7 +7,7 @@
     }
 
     if(code == "501"){
-        window.location.replace("https://pittimes.netlify.app/offline")
+        window.location.replace("https://pittimes.com/offline")
     }
 
 })()
