@@ -1249,8 +1249,8 @@ h1, h2, h3, h4, h5, h6 {
   padding-right: 9px;
 }
 .navbar .tvbutton:hover{
-  color: #e2273c;
-  background-color: #ffffff;
+  color: #ffffff;
+  background-color: #B92939;
 }
 .navbar a i, .navbar a:focus i {
   font-size: 12px;
