@@ -23,4 +23,4 @@ Our video page provides a list of editor-picked videos that we recommend you wat
 ### License
 
 
-Our code provided in this GitHub document is not made public to be reused, sold or any of the sorts. We provide a public view of our code so the community is aware of what is happening when you access our website.
+Our code provided in this GitHub document is not made public to be reused, sold or anything of the sorts. We provide a public view of our code so the community is aware of what is happening when you access our website.
