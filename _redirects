@@ -3,15 +3,16 @@
 /maintenance    /_src/maintenance.html    200
 /privacy-policy   /_src/privacy-policy.html    200
 
-<!-- Video Module -->
-/videos   /_src/videos.html    200
-/video   /_src/videos.html    200
-
 <!-- Live Module -->
 /live   /_src/live.html    200
 /offline   /_src/offline.html    200
 
-<!-- Standings Module -->
+<!-- Race Results Module -->
+/imola-gp   /_2022/imola-gp.html    200
+/mimai-gp   /_2022/mimai-gp.html    200
+
+<!-- Drivers Module -->
+/drivers   /drivers/index.html    200
 
 <!-- Database Module -->
 
