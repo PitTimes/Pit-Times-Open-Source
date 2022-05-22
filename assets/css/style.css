@@ -357,8 +357,18 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #0e1222;
 }
 
-.news span{
-  color: #e2273c;
+.news .title2 blog-title {
+  color: white;
+  font-weight: 400;
+  word-wrap: normal;
+  color: white;
+}
+
+.news .title2 pdate {
+  color: white;
+  font-weight: 400;
+  word-wrap: normal;
+  color: white;
 }
 
 .news h3 {
