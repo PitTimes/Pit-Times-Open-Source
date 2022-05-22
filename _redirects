@@ -2,6 +2,7 @@
 /   /_src/index.html    200
 /maintenance    /_src/maintenance.html    200
 /privacy-policy   /_src/privacy-policy.html    200
+/drivers   /_src/drivers.html    200
 
 <!-- Live Module -->
 /live   /_src/live.html    200
@@ -32,8 +33,11 @@
 /krispowers    /krispowers/index.html    200
 /kp    /krispowers/index.html    200
 
+<!-- Error URLs -->
+/mobile-error    /_src/mobile-error.html    200
+
 <!-- In Development Pages -->
 /beta=index    /base.html    200
 
 <!-- 404 Module -->
-/*   /404.html 404
+/*   /_src/404.html 404
