@@ -14,10 +14,14 @@ Our leaderboards feature provides up to date leaderboards regarding the season, 
 
 We also provide an extentinsive database linked with our leaderboards where you can find in-depth information about each team, driver, & factor of Formula 1.
 
-
-### Videos
-
-Our video page provides a list of editor-picked videos that we recommend you watch based on Formula 1. Videos are decided by the Channel who uploaded the video and its contents.
+### Latest News
+```text
+  [05/29/2022]
+  
+  v.1.0.0 Release has begun testing. Thanks to some amazing amount of work done by our development team, We have finally acheived
+  a status ready for testing. Our team expects testing to take a few days, and possibly weeks, but no later than the Baku Grand 
+  Prix. As always, status updates will be posted here and on the @PitTimesOSS Twitter page.
+```
 
 
 ### License
