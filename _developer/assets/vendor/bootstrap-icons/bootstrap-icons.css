@@ -407,6 +407,7 @@ url("./fonts/bootstrap-icons.woff?a74547b2f0863226942ff8ded57db345") format("wof
 .bi-chevron-double-right::before { content: "\f280"; }
 .bi-chevron-double-up::before { content: "\f281"; }
 .bi-chevron-down::before { content: "\f282"; }
+.bi-new::before { content: "NEW"; }
 .bi-chevron-expand::before { content: "\f283"; }
 .bi-chevron-left::before { content: "\f284"; }
 .bi-chevron-right::before { content: "\f285"; }

@@ -3,7 +3,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  background-color: #0e1222;
+  background-color: #15162f;
 }
 
 a {
@@ -18,6 +18,211 @@ a:hover {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto", sans-serif;
+}
+
+.maintenance {
+  background-color: #15162f;
+}
+
+.standings {
+  padding-top: 25px;
+  padding-bottom: 50px;
+  border-top: #e2273c 2px solid;
+  background-color: #15162f;
+}
+
+.standings t{
+  color: #e2273c;
+}
+
+.standings h3 {
+  padding-left: 25px;
+  padding-right: 25px;
+  width: 500px;
+  padding-top: 25px;
+  text-align: center;
+  color: #ffffff;
+  font-size: 1rem;
+  font-weight: 350;
+  font-family: "Poppins", sans-serif;
+}
+
+.standings h3 strong {
+  font-size: 1rem;
+  font-weight: 550;
+}
+
+.standings .title2 h1 {
+  padding-top: 25px;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #ffffff;
+  font-family: "Poppins", sans-serif;
+}
+
+.standings .title2 h2 {
+  padding-top: .25rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #ffffff;
+  font-family: "Poppins", sans-serif;
+  padding-bottom: 25px;
+}
+
+.standings .icon-box1 {
+  position: relative;
+  overflow: hidden;
+  background-color: #111;
+  color:rgb(255, 255, 255);
+  box-shadow: 0 0 29px 0 rgba(68, 88, 144, 0.12);
+  transition: all 0.3s ease-in-out;
+  border-radius: 8px;
+  height: 100%;
+  width: 60%;
+  margin-left: 205px;
+  margin-bottom: 10px;
+  z-index: 1;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: #e2273c 1px solid;
+}
+
+.standings .icon-box1 .rank {
+  width: 34px;
+  margin-right: 10px;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 800;
+  padding-top: 1px;
+  font-family: "Poppins", sans-serif;
+  float: left;
+}
+
+.standings .icon-box1 .name {
+  font-size: 16px;
+  font-weight: 350;
+  font-family: "Poppins", sans-serif;
+  padding-left: 8px;
+}
+
+.standings .icon-box1 .name strong {
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.standings .icon-box1 .d-team{
+  background-color: rgba(41, 41, 41, 0.658);
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-bottom: 3px;
+  padding-right: 5px;
+  padding-left: 5px;
+  color: rgb(224, 224, 224);
+  font-size: 13px;
+  font-weight: 350;
+  font-family: "Poppins", sans-serif;
+  margin-left: 2px;
+}
+
+.standings .icon-box1 .gle{
+  background-color: rgba(41, 41, 41, 0.658);
+  border-radius: 5px;
+  width: 30px;
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  margin-left: 5px;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  float: right;
+}
+
+.standings .icon-box1 .glg{
+  background-color: rgba(41, 41, 41, 0.658);
+  border-radius: 5px;
+  width: 30px;
+  color: #00ffb4;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  margin-left: 5px;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  float: right;
+}
+
+.standings .icon-box1 .gll{
+  background-color: rgba(41, 41, 41, 0.658);
+  border-radius: 5px;
+  width: 30px;
+  color: #e2273c;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  margin-left: 5px;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  float: right;
+}
+
+.standings .icon-box1 .points{
+  background-color: rgba(41, 41, 41, 0.658);
+  border-radius: 5px;
+  width: 57px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 5px;
+  text-align: center;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  float: right;
+}
+
+.standings .icon-box1 .gap{
+  background-color: rgba(41, 41, 41, 0.658);
+  border-radius: 5px;
+  width: 85px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  float: right;
+}
+
+.standings .button1 {
+  padding-top: 15px;
+}
+
+.standings .button1 .button{
+  background-color: #e2273c;
+  color: white;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  border-color: #e2273c;
+}
+
+.standings .button:hover{
+  background-color: #B92939;
+  color: white;
 }
 
 .podium {
@@ -332,7 +537,7 @@ h1, h2, h3, h4, h5, h6 {
 .news2 {
   padding-top: 25px;
   padding-bottom: 45px;
-  background-color: #0e1222;
+  background-color: #15162f;
 }
 
 .news2 span{
@@ -354,7 +559,7 @@ h1, h2, h3, h4, h5, h6 {
 .news {
   padding-top: 25px;
   padding-bottom: 45px;
-  background-color: #0e1222;
+  background-color: #15162f;
 }
 
 .news .title2 blog-title {
@@ -891,7 +1096,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 560px;
 }
 
-.driver-s2 .button:hover{
+.standings2 .button:hover{
   background-color: #e2273c;
   color: white;
 }
@@ -932,30 +1137,6 @@ h1, h2, h3, h4, h5, h6 {
 .predic {
   padding-left: 400px;
 }
-
-
-.standings .ferreri {
-  height: 65px;
-  width: 600px;
-  margin: auto;
-  margin-bottom: 50px;
-  border-radius: 15px;
-  background: #fe0d0d;
-  color: white;
-}
-
-.standings .ferreri #place{
-  background:rgb(0, 0, 0);
-  border-radius: 15px;
-  margin: 150px 15px 15px 15px;
-  padding: 15px;
-  color: white;
-  text-align: center;
-  height: 100px;
-  width: 100px;
-  font-family: "Poppins", sans-serif;
-}
-
 
 .legal {
   text-align: center;
@@ -1204,7 +1385,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background-color: #111;
+  background-color: #090a1a;
   border-bottom: #e2273c 1px solid;
   transition: all 0.5s;
   z-index: 997;
@@ -1259,17 +1440,17 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar p, .navbar p:focus {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding-left: 15px;
-  padding-right: 15px;
-  padding-top: 12px;
-  font-size: 15px;
+  height: 20px;
+  width: 45px;
+  border-radius: 3px;
+  margin-top: 15px;
+  padding-top: 1px;
+  padding-left: 6px;
+  font-size: 13px;
   font-weight: 600;
-  color: #e2273c;
-  white-space: nowrap;
+  color: #ffffff;
   transition: 0.3s;
-  position: relative;
+  background: #e2273c;
 }
 
 .navbar a, .navbar a:focus {
@@ -1496,7 +1677,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   height: 45vh;
   background-size: cover;
-  background-image: url("../img/Background.jpg");
+  background-color: #15162f;
   position: relative;
 }
 #hero:before {
@@ -3011,61 +3192,14 @@ section {
 --------------------------------------------------------------*/
 #footer {
   border-top: #e2273c 1px solid;
-  background: #111;
+  background: #090a1a;
   padding: 0 0 30px 0;
   color: #ffffff;
   font-size: 14px;
 }
-#footer .footer-newsletter {
-  padding: 50px 0;
-  background: #111;
-  font-size: 15px;
-}
-#footer .footer-newsletter h4 {
-  font-size: 24px;
-  margin: 0 0 20px 0;
-  padding: 0;
-  line-height: 1;
-  font-weight: 600;
-}
-#footer .footer-newsletter form {
-  margin-top: 30px;
-  position: relative;
-  border-radius: 4px;
-  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.06);
-  text-align: left;
-}
-#footer .footer-newsletter form input[type=email] {
-  border-radius: 8px;
-  height: 50px;
-  width: 500px;
-  margin-right: 15px;
-  background-color: white;
-  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
-  padding-left: 15px;
-  border: white 1px solid;
-}
-#footer .footer-newsletter form input[type=submit] {
-  position: absolute;
-  font-size: 16px;
-  height: 50px;
-  font-weight: 600;
-  padding: 0 20px;
-  background: #e2273c;
-  color: #fff;
-  transition: 0.3s;
-  border-radius: 8px;
-  border: #e2273c 4px solid;
-  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
-}
-#footer .footer-newsletter form input[type=submit]:hover {
-  color: #ffffff;
-  background-color: #B92939;
-  border-color: #e2273c 4px solid;
-}
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #111;
+  background: #090a1a;
 }
 
 #footer .footer-top .footer-contact img {
@@ -3155,7 +3289,7 @@ section {
 #footer .copyright {
   padding-top: 25px;
   border-top: #e2273c 1px solid;
-  border-width: 95%;
+  background-color: #090a1a;
 }
 
 #footer .copyright a{
